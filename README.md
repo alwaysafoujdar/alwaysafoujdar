@@ -1,5 +1,4 @@
-# 💫 About Me:
-## Hi there 👋  <br><br>
+# 💫 About Me: <br><br>
 I'm **Aman K. Foujdar**, a **Machine Learning Researcher** and **AI Enthusiast** who loves building intelligent systems, exploring reinforcement learning, and bridging AI with finance and astrophysics.  <br><br> 🔭 I’m currently working on  <br>- **Reinforcement learning** and its applications in finance & decision-making 📈  <br>- **GenAI and LLM** using various architectures like Transformers and Diffusion models<br><br> 🌱 I’m currently learning  <br>- Advanced **quantitative finance models** and **algorithmic trading**  <br>- Deep **reinforcement learning** and **game theory** strategies  <br>- Scaling **transformer architectures** beyond toy datasets  <br><br>👯 I’m looking to collaborate on  <br>- **Quantitative finance research** & trading strategies  <br>- Open-source **ML & AI projects** 🤖  <br>- **Astrophysics + AI models** for scientific discovery <br><br>⚡ Fun fact  <br>My reinforcement learning agent is still figuring out how to optimize my sleep schedule! 😆 
 
 
