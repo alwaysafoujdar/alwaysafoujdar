@@ -1,4 +1,12 @@
-I'm **Aman K. Foujdar**, a **Machine Learning Researcher** and **AI Enthusiast** who loves building intelligent systems, exploring reinforcement learning, and bridging AI with finance and astrophysics.  <br><br> 🔭 I’m currently working on  <br>- **Reinforcement learning** and its applications in finance & decision-making 📈  <br>- **GenAI and LLM** using various architectures like Transformers and Diffusion models<br><br> 🌱 I’m currently learning  <br>- Advanced **quantitative finance models** and **algorithmic trading**  <br>- Deep **reinforcement learning** and **game theory** strategies  <br>- Scaling **transformer architectures** beyond toy datasets  <br><br>👯 I’m looking to collaborate on  <br>- **Quantitative finance research** & trading strategies  <br>- Open-source **ML & AI projects** 🤖  <br>- **Astrophysics + AI models** for scientific discovery <br><br>⚡ Fun fact  <br>My reinforcement learning agent is still figuring out how to optimize my sleep schedule! 😆 
+My name is Aman Foujdar and I'm a final-year CS & Mathematics student at Ashoka University, currently doing quantitative research at SCDLDS under Prof. Juneja and Prof. Prabhala. Most of my work sits somewhere between machine learning and financial markets. 
+
+I enjoy building systems that make decisions under uncertainty. Lately that has meant a diffusion model for limit order book event streams (predicting what trades happen next, and when), a multi-factor data library covering 6000+ Indian firms across three decades, and — during a stint at Flipkart — a causal ML and offline RL system that decides when a support chatbot should hand a customer to a real person.
+
+On the side I built SastaGPT, a small Transformer LLM series that I kept rewriting until a sparse Mixture-of-Experts version matched the original at a tenth of the training cost. This was just for the sake of experimenting and learning. I'm also a founding co-president of Ashoka's Quantitative Finance Club, where I co-run an applied finance and ML program for undergrads.
+
+Interested in reinforcement learning, causal inference, generative modeling, and quant research generally. Happy to talk to anyone working on similar things.
+
+**Tools I actually use:** Python, C++, Java, SQL · PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face · NumPy, pandas · Docker, Git, Linux, OpenAI Gym, LaTeX 
 
 
 ## 🌐 Socials:
@@ -18,4 +26,3 @@ I'm **Aman K. Foujdar**, a **Machine Learning Researcher** and **AI Enthusiast**
 ---
 [![](https://visitcount.itsvg.in/api?id=alwaysafoujdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
